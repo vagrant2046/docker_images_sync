@@ -1,1 +1,1 @@
-php:8.4.10-fpm-alpine
+nginx:alpine
