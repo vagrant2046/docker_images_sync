@@ -1,1 +1,1 @@
-training/webapp
+nginx
