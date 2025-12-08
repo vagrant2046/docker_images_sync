@@ -1,1 +1,1 @@
-mysql:5.5
+centos:6.10
