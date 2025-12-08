@@ -1,1 +1,1 @@
-mysql:latest
+centos:6.8
